@@ -5,7 +5,7 @@ Saudi individual
 
 ## Assembly releases
 
-### v0.1.0
+### v0.1.0 (2022-10-09)
 This is a first draft version of the genome
 
-* (ksa001v0.1.0)[]
+* (ksa001v0.1.0)[https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/ksa001v0.1.0.fa.gz]
