@@ -55,3 +55,8 @@ This is a first draft version of the genome
 |chrM | 1 | 16,569 | 1 | 16,567|
 |chrY | 1 | 62,460,029 | 0 | 0 |
 |Total | 25 | 3,117,292,070 | 24 | 3,061,063,154|
+
+## Sequencing data
+* Illumina: [SRR21927836](https://www.ncbi.nlm.nih.gov/sra/?term=SRR21927836) and [SRR21927835](https://www.ncbi.nlm.nih.gov/sra/?term=SRR21927835)
+* ONT: [SRR21927834](https://www.ncbi.nlm.nih.gov/sra/?term=SRR21927834)
+* PacBio: [SRR21927833](https://www.ncbi.nlm.nih.gov/sra/?term=SRR21927833)
