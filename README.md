@@ -8,12 +8,13 @@ Saudi individual
 ### v0.3.0
 
 * [ksa001v0.3.0.fa.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v0.3.0/ksa001v0.3.0.fa.gz): Regions assembled with ONT reads are polished.
-* [ksa001v0.3.0_chm13v2.0.paf](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v0.3.0/ksa001v0.3.0_chm13v2.0.paf): Alignment to CHM13v2.0.
-* [ksa001v0.3.0_chm13v2.0_GENCODEv35_CAT_Liftoff.vep.gff3_polished](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v0.3.0/https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v0.3.0/ksa001v0.3.0_chm13v2.0_GENCODEv35_CAT_Liftoff.vep.gff3_polished): CAT/Liftoff annotations.
+* [ksa001v0.3.0_chm13v2.0.paf.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v0.3.0/ksa001v0.3.0_chm13v2.0.paf.gz): Alignment to CHM13v2.0.
+* [ksa001v0.3.0_chm13v2.0_GENCODEv35_CAT_Liftoff.vep.gff3_polished.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v0.3.0/ksa001v0.3.0_chm13v2.0_GENCODEv35_CAT_Liftoff.vep.gff3_polished.gz): CAT/Liftoff annotations.
 
 ### v0.2.1
 
 * [ksa001v0.2.1.fa.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v0.2.1/ksa001v0.2.1.fa.gz): Gapless assembly
+* [ksa001v0.2.1.cen_mask.bed](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v0.2.1/ksa001v0.2.1.cen_mask.bed): Centromeric satelite masking file
 
 ### v0.1.0 (2022-10-09)
 This is a first draft version of the genome
