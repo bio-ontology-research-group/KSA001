@@ -1,4 +1,4 @@
-# KSA001 - A personal, reference quality, fully annotated genome from a Saudi individual.
+# A personal, reference quality, fully annotated genome from a Saudi individual (KSA001)
 
 
 ## Assembly releases
