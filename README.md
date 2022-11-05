@@ -14,7 +14,7 @@ Saudi individual
 ### v0.2.1
 
 * [ksa001v0.2.1.fa.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v0.2.1/ksa001v0.2.1.fa.gz): Gapless assembly
-* [ksa001v0.2.1.cen_mask.bed](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v0.2.1/ksa001v0.2.1.cen_mask.bed): Centromeric satelite masking file
+* [ksa001v0.2.1.cen_mask.bed](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v0.2.1/ksa001v0.2.1.cen_mask.bed): Centromere satellite masking
 
 ### v0.1.0 (2022-10-09)
 This is a first draft version of the genome
