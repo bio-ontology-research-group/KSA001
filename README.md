@@ -3,6 +3,18 @@
 
 ## Assembly releases
 
+### v1.0.0 (Diploid genome)
+
+#### Maternal
+* [ksa001.1v1.0.0.fa.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.0.0/ksa001.1/ksa001.1v1.0.0.fa.gz): Maternal haploid assembly.
+* [ksa001.1v1.0.0_chm13v2.0_GENCODEv35_CAT_Liftoff.vep.gff3.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.0.0/ksa001.1/ksa001.1v1.0.0_chm13v2.0_GENCODEv35_CAT_Liftoff.vep.gff.gz): CAT/Liftoff annotations.
+* [ksa001.1v1.0.0.cen-mask.bed](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.0.0/ksa001.1/ksa001.1v1.0.0.cen-mask.bed): Centromeric regions.
+
+#### Paternal
+* [ksa001.2v1.0.0.fa.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.0.0/ksa001.2v1.0.0.fa.gz): Paternal haploid assembly.
+* [ksa001.2v1.0.0_chm13v2.0_GENCODEv35_CAT_Liftoff.vep.gff3.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.0.0/ksa001.2/ksa001.2v1.0.0_chm13v2.0_GENCODEv35_CAT_Liftoff.vep.gff.gz): CAT/Liftoff annotations.
+* [ksa001.2v1.0.0.cen-mask.bed](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.0.0/ksa001.1/ksa001.2v1.0.0.cen-mask.bed): Centromeric regions.
+
 ### v0.3.0
 
 * [ksa001v0.3.0.fa.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v0.3.0/ksa001v0.3.0.fa.gz): Regions assembled with ONT reads are polished.
