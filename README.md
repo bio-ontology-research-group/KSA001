@@ -3,17 +3,31 @@
 
 ## Assembly releases
 
+### v1.1.0 (Haploid genome)
+* [ksa001.fa.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.1.0/ksa001.fa.gz)
+* [ksa001.gene_annotation_overlap.gff3](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.1.0/ksa001.gene_annotation_overlap.gff3)
+* [ksa001_augustus.gtf](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.1.0/ksa001_augustus.gtf)
+
+### v1.1.0 (Diploid genome)
+
+#### Maternal
+* [ksa001.1v1.1.0.fa.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.1.0/ksa001.1v1.1.0fa.gz)
+* [ksa001.1.gene_annotation_overlap.gff3](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.1.0/ksa001.1.gene_annotation_overlap.gff3)
+
+#### Paternal
+* [ksa001.2v1.1.0.fa.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.1.0/ksa001.2v1.1.0fa.gz)
+* [ksa001.2.gene_annotation_overlap.gff3](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.1.0/ksa001.2.gene_annotation_overlap.gff3)
+
+
 ### v1.0.0 (Diploid genome)
 
 #### Maternal
 * [ksa001.1v1.0.0.fa.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.0.0/ksa001.1/ksa001.1v1.0.0.fa.gz): Maternal haploid assembly.
 * [ksa001.1v1.0.0_chm13v2.0_GENCODEv35_CAT_Liftoff.vep.gff3.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.0.0/ksa001.1/ksa001.1v1.0.0_chm13v2.0_GENCODEv35_CAT_Liftoff.vep.gff.gz): CAT/Liftoff annotations.
-* [ksa001.1v1.0.0.cen-mask.bed](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.0.0/ksa001.1/ksa001.1v1.0.0.cen-mask.bed): Centromeric regions.
 
 #### Paternal
 * [ksa001.2v1.0.0.fa.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.0.0/ksa001.2v1.0.0.fa.gz): Paternal haploid assembly.
 * [ksa001.2v1.0.0_chm13v2.0_GENCODEv35_CAT_Liftoff.vep.gff3.gz](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.0.0/ksa001.2/ksa001.2v1.0.0_chm13v2.0_GENCODEv35_CAT_Liftoff.vep.gff.gz): CAT/Liftoff annotations.
-* [ksa001.2v1.0.0.cen-mask.bed](https://bio2vec.cbrc.kaust.edu.sa/data/ksa001/v1.0.0/ksa001.1/ksa001.2v1.0.0.cen-mask.bed): Centromeric regions.
 
 ### v0.3.0
 
