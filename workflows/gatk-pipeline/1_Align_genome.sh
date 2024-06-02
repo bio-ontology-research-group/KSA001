@@ -15,4 +15,4 @@ bwa mem -M -t 16 \
 $REFERENCE \
 $READ1 \
 $READ2 | \
-samtools view -b -h -o $SAMPLE.bam -
+samtools view -b -h -o ${SAMPLE}.bam -
